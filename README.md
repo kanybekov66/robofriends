@@ -1,8 +1,8 @@
 It's a simple web app created with ReactJS. It fetches data from jsonplaceholder.typicode.com and robohash.org.
 It has dynamic search, adaptive layout. It was made by using different libraries.
 
-![screenshot]
-(https://raw.githubusercontent.com/kanybekov66/robofriends/master/.vscode/Снимок%20экрана%202021-03-22%20в%2020.56.39.png)
+![Снимок экрана 2021-03-22 в 20 56 39](https://user-images.githubusercontent.com/39159646/112022670-b67f9a00-8b5c-11eb-9e66-a72e7d5ad837.png)
+
 
 In the project directory, run following commands:
 
